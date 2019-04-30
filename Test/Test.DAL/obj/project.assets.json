@@ -5813,11 +5813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj",
+      "projectUniqueName": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj",
       "projectName": "Test.DAL",
-      "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj",
+      "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj",
       "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-      "outputPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test.DAL\\obj\\",
+      "outputPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5836,8 +5836,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\Test.Models.csproj": {
-              "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\Test.Models.csproj"
+            "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\Test.Models.csproj": {
+              "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\Test.Models.csproj"
             }
           }
         }

@@ -5,7 +5,7 @@ using Test.Models;
 
 namespace Test.BLL.Interfaces
 {
-    interface IHistoryService: IService<HISTORY,int>
+  public  interface IHistoryService: IService<HISTORY,int>
     {
         //void Create(HISTORY history);
         //void Delete(HISTORY history);

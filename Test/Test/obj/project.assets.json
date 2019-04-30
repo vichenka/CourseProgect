@@ -13990,11 +13990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test\\Test.csproj",
+      "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-      "outputPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test\\obj\\",
+      "outputPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14013,11 +14013,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\Test.Models.csproj": {
-              "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\Test.Models.csproj"
+            "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\Test.Models.csproj": {
+              "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\Test.Models.csproj"
             },
-            "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj": {
-              "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj"
+            "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj": {
+              "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test\\Test.DAL\\Test.DAL.csproj"
             }
           }
         }

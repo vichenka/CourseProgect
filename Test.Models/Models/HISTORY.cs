@@ -22,6 +22,7 @@ namespace Test.Models
 
         public int? ID_TYPE { get; set; }
 
+        public virtual string ID_USER { get; set; }
         public virtual TYPE TYPE { get; set; }
 
         public virtual ApplicationUser USER { get; set; }

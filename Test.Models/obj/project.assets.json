@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\Test.Models.csproj",
+      "projectUniqueName": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\Test.Models.csproj",
       "projectName": "Test.Models",
-      "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\Test.Models.csproj",
+      "projectPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\Test.Models.csproj",
       "packagesPath": "C:\\Users\\Anna\\.nuget\\packages\\",
-      "outputPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\Test.Models\\obj\\",
+      "outputPath": "E:\\РАБОЧЕЕ\\3 КУРС 2 СЕМ\\Курсач\\TestCourseProgect\\TestCourseProgect\\Test.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,24 @@
+#Depending on the operating system of the host machines(s) that will build or run the containers, the image specified in the FROM statement may need to be changed.
+#For more information, please see http://aka.ms/containercompat 
+
+FROM microsoft/aspnetcore:2.0-nanoserver-1803 AS base
+WORKDIR /app
+EXPOSE 80
+
+FROM microsoft/aspnetcore-build:2.0-nanoserver-1803 AS build
+WORKDIR /src
+COPY Test/Test.csproj Test/
+COPY ../Test.Models/Test.Models.csproj ../Test.Models/
+COPY Test.DAL/Test.DAL.csproj Test.DAL/
+RUN dotnet restore Test/Test.csproj
+COPY . .
+WORKDIR /src/Test
+RUN dotnet build Test.csproj -c Release -o /app
+
+FROM build AS publish
+RUN dotnet publish Test.csproj -c Release -o /app
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app .
+ENTRYPOINT ["dotnet", "Test.dll"]
